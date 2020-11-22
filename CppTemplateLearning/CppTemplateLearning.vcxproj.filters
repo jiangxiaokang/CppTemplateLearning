@@ -21,6 +21,9 @@
     <ClCompile Include="CppTemplateLearning.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="basic\max3.hpp">
+      <Filter>源文件\basic</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basic\max.hpp">
